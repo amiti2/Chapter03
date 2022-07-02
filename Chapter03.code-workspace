@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "Operators"
+		},
+		{
+			"path": "../chapter05"
 		}
 	],
 	"settings": {}
